@@ -9,8 +9,7 @@ if
 end
 end
 =end
-def parrot
-phrase = "Squawk!"
-  puts "#{phrase}"
-  return phrase
+def parrot(a = "Squawk!")
+  puts "#{a}"
+  return a
 end
