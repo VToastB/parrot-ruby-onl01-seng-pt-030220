@@ -8,3 +8,8 @@ if
   puts "i go #{b}"
 end
 
+def parrot
+phrase = "Squawk!"
+  puts "#{phrase}"
+  return phrase
+end
