@@ -7,6 +7,7 @@ if
   "parrot"
   puts "i go #{b}"
 end
+end
 =end
 def parrot
 phrase = "Squawk!"
